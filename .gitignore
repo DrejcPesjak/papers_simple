@@ -1,1 +1,4 @@
 tmp/
+
+/papers/*
+!/papers/AIandJobDisplacement_ARealisticPlanforSloveniaFuture.pdf
